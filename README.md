@@ -1,4 +1,4 @@
-[Dailydiet](https://github.com/kawanstrelow/dailydietrn/assets/91164475/a7401ea2-03d6-44ef-aef9-6a77ce37a12e)
+![Dailydiet](https://github.com/kawanstrelow/dailydietrn/assets/91164475/a7401ea2-03d6-44ef-aef9-6a77ce37a12e)
 
 # Daily Diet App
 This is an app for daily diet tracking, where the user can register their daily meals, drinks, and snacks, view details of each meal, and analyze the quality of their food intake.
