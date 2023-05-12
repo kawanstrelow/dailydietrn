@@ -20,7 +20,7 @@ This is an app for daily diet tracking, where the user can register their daily 
 - Editing and deletion of registered meals, drinks, and snacks.
 
 ## Screenshots
-[Dailydiet](https://github.com/kawanstrelow/dailydietrn/assets/91164475/a7401ea2-03d6-44ef-aef9-6a77ce37a12e)
+![Dailydiet](https://github.com/kawanstrelow/dailydietrn/assets/91164475/a7401ea2-03d6-44ef-aef9-6a77ce37a12e)
 
 Contributing
 Feel free to contribute to the project. You can open an issue to report a bug, suggest a new feature, or fix an existing issue. Alternatively, you can also send a pull request with your changes.
